@@ -1,0 +1,15 @@
+{
+  "name": "are-we-signed",
+  "version": "1.0.0",
+  "description": "Server side app for the are we signed band name database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "author": "jxhnkndl",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.1.1"
+  }
+}
